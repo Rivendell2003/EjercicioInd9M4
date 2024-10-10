@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjercicioInd9M4</string>
+    <string name="volver">Volver</string>
+    <string name="todo">TODO</string>
+    <string name="tecnologias_1">Tecnologias 1</string>
+    <string name="tecnologias_4">Tecnologias 4</string>
+    <string name="tecnologias_3">Tecnologias 3</string>
+    <string name="tecnologias_2">Tecnologias 2</string>
+    <string name="by_jonny_v_a">By Jonny V. A.</string>
+</resources>
